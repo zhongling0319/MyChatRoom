@@ -7,7 +7,7 @@
 
 ## 流程示意
 
-![聊天室流程示意图](readme.assets/聊天室流程示意图.JPG)
+![聊天室流程示意图](https://github.com/zhongling0319/MyChatRoom/blob/master/readme.assets/sketch.JPG)
 
 ## 补充思路
 
