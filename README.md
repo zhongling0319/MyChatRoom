@@ -7,7 +7,9 @@
 
 ## 流程示意
 
+
 ![聊天室流程示意图](https://image-1301378304.cos.ap-nanjing.myqcloud.com/%E8%81%8A%E5%A4%A9%E5%AE%A4%E6%B5%81%E7%A8%8B%E7%A4%BA%E6%84%8F%E5%9B%BE.JPG)
+
 
 ## 补充思路
 
